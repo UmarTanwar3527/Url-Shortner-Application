@@ -96,4 +96,4 @@ Contributions to the project are welcome! Feel free to fork the repository, sugg
 
 ---
 
-This project is an excellent addition to your portfolio and showcases your ability to build real-world applications. Thank you for visiting, and I hope this URL Shortener simplifies your link-sharing experience!
+Thank you for visiting, and I hope this URL Shortener simplifies your link-sharing experience!
